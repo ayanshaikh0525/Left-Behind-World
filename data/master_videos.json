@@ -1,34 +1,5 @@
 [
   {
-    "id": 1,
-    "source": {
-      "filename": "500  AI Typography Reels bundle .pdf_20260323_004112_0000.pdf",
-      "drive_file_id": "1IsZ2zZwEnWNFWyNk8VY4ljRQvJQPpQb4"
-    },
-    "processed": {
-      "exists": false,
-      "analysis": {}
-    },
-    "platforms": {
-      "youtube": {
-        "uploaded": false,
-        "upload_id": ""
-      },
-      "instagram": {
-        "uploaded": false,
-        "upload_id": ""
-      },
-      "facebook": {
-        "uploaded": false,
-        "upload_id": ""
-      },
-      "threads": {
-        "uploaded": false,
-        "upload_id": ""
-      }
-    }
-  },
-  {
     "id": 2,
     "source": {
       "filename": "_prwin___14050106_171006300.mp4",

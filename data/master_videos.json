@@ -3892,13 +3892,29 @@
       "drive_file_id": "10o0t9j22cmGs1U2IbinlXhWxKVZfNn27"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Education/Personal Growth",
+        "project": "Content Creator Growth Journey",
+        "summary": "This video is a personal reflection on the journey of a content creator who feels stagnant in terms of views and growth, seeking to connect with others on a similar path.",
+        "materials": [
+          "Content analytics data",
+          "Digital video graphics"
+        ],
+        "tools": [
+          "Video editing software",
+          "Analytics dashboard"
+        ],
+        "viral_hook": "The video uses a 'vulnerable' hook: 'Views are low, followers are low... are you with me?' to build community and relatability among smaller content creators."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "V4otPwzaivc",
+        "uploaded_at": "2026-06-07T19:07:18.461205",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -3912,6 +3928,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T19:07:12.133968"
     }
   },
   {

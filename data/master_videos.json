@@ -4994,13 +4994,32 @@
       "drive_file_id": "1JnopKv97I4fSt2tEjiO_8Go0KEqZHBLc"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Urban Exploration (Urbex)",
+        "project": "Abandoned Hospital/Asylum Exploration",
+        "summary": "The footage captures a POV walk-through of an abandoned medical facility room, characterized by decay, peeling paint, and significant nature reclamation. The room contains a medical gurney, a vintage monitor stand, a small side cabinet, and debris scattered across the floor, all framed against a large, ivy-overgrown window.",
+        "materials": [
+          "Decaying plaster",
+          "Peeling paint",
+          "Ivy/vegetation",
+          "Broken glass",
+          "Dust and debris"
+        ],
+        "tools": [
+          "Camera/Phone for recording",
+          "Stabilizer/Gimbal (implied by movement)"
+        ],
+        "viral_hook": "Nature is reclaiming what we left behind—the haunting silence of this abandoned hospital room feels like a scene straight out of a post-apocalyptic movie."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Pb0ype65HvA",
+        "uploaded_at": "2026-06-07T19:24:24.127628",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -5014,6 +5033,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T19:24:20.209882"
     }
   },
   {

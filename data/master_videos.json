@@ -19951,13 +19951,29 @@
       "drive_file_id": "1jMBZqHesYtCajSxBuFOSOFvLpEfUxq-m"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment/Art",
+        "project": "Underwater archaeological simulation",
+        "summary": "A diver retrieves a large gemstone from the forehead of a pharaonic statue underwater. The video appears to be a highly stylized CGI or artistic simulation depicting an explorer discovering a hidden relic.",
+        "materials": [
+          "Gemstone/Crystal",
+          "Statue (CGI model)"
+        ],
+        "tools": [
+          "Underwater flashlight",
+          "Diving gear (implied)"
+        ],
+        "viral_hook": "I found something impossible hidden in an ancient underwater statue."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "OLRALagGtn4",
+        "uploaded_at": "2026-06-09T06:14:30.633446",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -19971,6 +19987,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T06:14:26.732186"
     }
   },
   {

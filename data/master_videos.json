@@ -2935,13 +2935,30 @@
       "drive_file_id": "1g1mkEUtJQ-1A_zz2HbgYgGDLwgLSxvEi"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Urban Exploration (Urbex)",
+        "project": "Abandoned Castle Exploration",
+        "summary": "A short video showcasing the exterior of a large, weathered, and abandoned French-style castle, surrounded by overgrown vegetation and tall grass in a desolate, overcast environment.",
+        "materials": [
+          "Stone masonry",
+          "Slate roofing",
+          "Metal railings"
+        ],
+        "tools": [
+          "Camera/Smartphone",
+          "Gimbal or stabilizer"
+        ],
+        "viral_hook": "Would you spend a night in this abandoned castle if you were offered $10,000?"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Ui6MRz8SPZ4",
+        "uploaded_at": "2026-06-18T09:47:27.426384",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2955,6 +2972,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-18T09:47:23.401849"
     }
   },
   {
